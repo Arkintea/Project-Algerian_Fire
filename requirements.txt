@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+pickle
+scikit-learn
+dnspython
+pymongo
+Flask
+gunicorn
+Jinja2
+Werkzeug
+scipy
+xgboost
+pymongo[srv]
